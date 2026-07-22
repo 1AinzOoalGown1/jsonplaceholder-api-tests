@@ -15,3 +15,4 @@
 - `README.md` – описание проекта.
 - `test-cases/` – тест-кейсы для основных ресурсов API (/posts, /comments, /albums, /photos, /todos, /users).
 - `test-report.md` – краткий отчёт о тестировании со ссылкой на коллекцию Postman и скриншотом прогона.
+- `collection_run_1.png` | `collection_run_2.png` - Скриншоты прогона коллекции
