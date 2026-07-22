@@ -1,6 +1,6 @@
 # Тестирование REST API JSONPlaceholder
 
-## Что это?
+## Проект
 Набор ручных тест-кейсов и готовая коллекция запросов в Postman для проверки функциональности публичного REST API [JSONPlaceholder](https://jsonplaceholder.typicode.com).
 
 ## Цель
