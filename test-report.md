@@ -22,15 +22,16 @@
 ## Ссылка на коллекцию Postman и Environments
 
 [Коллекция в Postman Workspace](https://www.postman.com/ivansaltuganov/educational/collection/46402563-5f3815f7-6b45-469a-a642-aa73d9c89742?action=share&source=copy-link&creator=46402563)
+
 [Переменные окружения в Postman Workspace](https://www.postman.com/ivansaltuganov/educational/environment/46402563-0f041946-a078-4a99-a567-e31e1a72d8f1?action=share&source=copy-link&creator=46402563)
 
 ---
 
 ## Скриншот прогона коллекции (Collection Runner)
 
-![Collection Run Summary - 1](.collection_run_1.png)
+![Collection Run Summary - 1](collection_run_1.png)
 
-![Collection Run Summary - 2](.collection_run_1.png)
+![Collection Run Summary - 2](collection_run_1.png)
 
 
 ---
